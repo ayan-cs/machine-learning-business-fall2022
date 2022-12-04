@@ -21,6 +21,7 @@ PCA is applied on the dataset for the ease of visualization.
 
 ![Decision Tree Regressor Output](https://github.com/ayan-cs/mlb-msl7380-fall2022/blob/assignment_1/Image%20resources/q1_dtree.png)
 
+Complete Notebook link - [here](https://github.com/ayan-cs/mlb-msl7380-fall2022/blob/assignment_1/q1_carseats.ipynb)
 ---
 
 ## 2. Use the data given [here](https://www.kaggle.com/iabhishekofficial/mobile-price-classification) to predict the price range of mobiles based on select predictors following the steps:
@@ -45,3 +46,5 @@ PCA has been applied for the ease of visualization of the dataset in 2D and 3D r
 Three classification algorithms have been applied using different hyperparameters and the best algorithm has been retained for the final prediction. The final prediction of the Test set is as below,
 
 ![3D Visualization of Prediction](https://github.com/ayan-cs/mlb-msl7380-fall2022/blob/assignment_1/Image%20resources/q2_prediction.png)
+
+Complete Notebook link - [here](https://github.com/ayan-cs/mlb-msl7380-fall2022/blob/assignment_1/q2_mobileprice.ipynb)
